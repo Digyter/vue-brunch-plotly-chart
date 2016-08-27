@@ -1,0 +1,27 @@
+{
+  "name": "vue-brunch-plotly-chart",
+  "description": "Visualization chart using PlotlyJS and ChartJS built with VueJS and Brunch.",
+  "main": "",
+  "authors": [
+    "Mark Angelo Libantino"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Digyter/vue-brunch-plotly-chart",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "plotlyjs": "plotly#^1.16.2"
+  },
+  "keywords": [
+    "vue",
+    "brunch",
+    "plotlyjs",
+    "chartjs"
+  ]
+}
